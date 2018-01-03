@@ -1,5 +1,5 @@
 import time
 
 
-def print_cwd():
+def print_now():
     print(time.time())
