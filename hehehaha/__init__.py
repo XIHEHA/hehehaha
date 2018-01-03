@@ -1,5 +1,5 @@
-from .print_cwd import *
-from .print_now import *
+from .print_cwd import print_cwd
+from .print_now import print_now
 
 __version__ = '1.0.0'
 
