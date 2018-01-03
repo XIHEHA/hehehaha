@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='hehehaha',
-    version='1.0.0',
+    version='1.0.1',
     description=(
-        '我用来学习测试的'
+        'my test'
     ),
     long_description=open('README.md').read(),
     author='CuiWeiming',
